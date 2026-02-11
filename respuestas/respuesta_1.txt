@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+
+GRAFOS | El modelado de relaciones complejas e interconectadas (quién compró qué, similitudes) es el caso de uso nativo para bases de datos orientadas a grafos.

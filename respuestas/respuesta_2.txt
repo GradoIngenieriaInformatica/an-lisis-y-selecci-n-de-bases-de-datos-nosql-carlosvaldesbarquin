@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+
+CLAVE-VALOR | Ideal para sesiones debido a su máxima velocidad de lectura/escritura mediante clave simple y gestión eficiente de expiración de datos (TTL).

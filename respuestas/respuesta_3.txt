@@ -1,1 +1,3 @@
 TIPO | Justificación corta
+
+FAMILIA DE COLUMNAS | Optimizada para escrituras masivas de eventos y consultas eficientes de rangos temporales (series de tiempo) en grandes volúmenes de datos.
